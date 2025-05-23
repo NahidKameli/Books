@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+}
+
+.cards{
+    flex: 2.5 1 0;
+}
+
+.favorite{
+    flex: 1 1 0;
+    padding: 10px;
+    background-color: #D4BDAC;
+    border-radius: 10px;
+    margin-left: 10px;
+}

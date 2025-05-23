@@ -1,0 +1,27 @@
+.header{
+    background-color: #EF5A6F;
+    padding: 10px 18px;
+    margin-bottom: 70px;
+    border-radius: 10px;
+}
+
+.header img{
+    width: 7%;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+    color: #536493;
+}
+
+.footer{
+    text-align: center;
+    background-color: #536493;
+    padding: 20px;
+    margin-top: 70px;
+    border-radius: 10px;
+    color: #EF5A6F;
+}
