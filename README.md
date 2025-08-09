@@ -40,7 +40,7 @@ Books Project is a React-based web application designed to help users browse or 
 ## Screenshots
 Explore the Books Project through these snapshots:
 
-| Homepage | Book Favorite | Book Details |
+| Homepage | Book Favorite | Book Search |
 |----------|-----------|--------------|
 | <img src="./screenshots/screenshot1.png" alt="Homepage" width="300"/> | <img src="./screenshots/screenshot2.png" alt="Book List" width="300"/> | <img src="./screenshots/screenshot3.png" alt="Book Details" width="300"/> |
 
